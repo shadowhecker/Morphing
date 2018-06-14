@@ -1,0 +1,11 @@
+﻿  Morphing.cpp
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(37): warning C4521: “RGB_NEW”: 指定了多个复制构造函数
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(59): warning C4521: “Point”: 指定了多个复制构造函数
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(84): warning C4521: “Pixel”: 指定了多个复制构造函数
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tgwys\onedrive\tgwys\source\repos\morphing\morphing\morphing.h(107): warning C4018: “<”: 有符号/无符号不匹配
+  Morphing.vcxproj -> C:\Users\tgwys\OneDrive\tgwys\source\repos\Morphing\Debug\Morphing.exe
